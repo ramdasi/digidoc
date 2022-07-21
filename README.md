@@ -34,6 +34,6 @@ II. border_detect(): it detects borders i.e. selects parallel
 lines to get biggest parallelogram possible
 III. intersection(): finds corners from selected 4 lines
 Requirements:
- Python(3.x recommended)
- openCV(3.4.x recommended)
- Numpy
+1. Python(3.x recommended)
+2. openCV(3.4.x recommended)
+3. Numpy
