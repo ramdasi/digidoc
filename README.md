@@ -3,7 +3,7 @@
 Its a realtime document scanner or detector. It
 automatically crops document from picture and resizes it to
 specific dimensions.
-https://ibb.co/QFwMDfR
+https://i.postimg.cc/VvTWpJJZ/Screenshot-2022-07-22-014207.png
 ## Where it is helpful?
 It is helpful in offices where we have to scan documents
 very quickly. For that we can set a camera shooting
