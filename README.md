@@ -1,9 +1,9 @@
 # Digidoc
-#What is digidoc?
+## What is digidoc?
 Its a realtime document scanner or detector. It
 automatically crops document from picture and resizes it to
 specific dimensions.
-#Where it is helpful?
+## Where it is helpful?
 It is helpful in offices where we have to scan documents
 very quickly. For that we can set a camera shooting
 towards table. If someone puts document on table, it will
