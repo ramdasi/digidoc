@@ -9,7 +9,7 @@ very quickly. For that we can set a camera shooting
 towards table. If someone puts document on table, it will
 automatically record the document and crop it and wait for
 confirmation to save it in a specific folder.
-#Working:
+## Working:
 We tried using various ways to recognize documents in
 noisy backgrounds by using python-openCV and setteled
 to the most efficient and accurate configurations as below:
